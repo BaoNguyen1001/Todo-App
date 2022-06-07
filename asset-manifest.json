@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BaoNguyen1001/Todo-App/static/css/main.59c2b072.css",
+    "main.js": "/BaoNguyen1001/Todo-App/static/js/main.a4c15799.js",
+    "index.html": "/BaoNguyen1001/Todo-App/index.html",
+    "main.59c2b072.css.map": "/BaoNguyen1001/Todo-App/static/css/main.59c2b072.css.map",
+    "main.a4c15799.js.map": "/BaoNguyen1001/Todo-App/static/js/main.a4c15799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59c2b072.css",
+    "static/js/main.a4c15799.js"
+  ]
+}
